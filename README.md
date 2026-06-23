@@ -1,4 +1,3 @@
-[Uploading ChatNovelStudio.html…]()
 <!DOCTYPE html>
 <html lang="th">
 <head>
